@@ -1,0 +1,113 @@
+[
+  {
+    "chunk_index": 0,
+    "content": "--- --Dubai launches new global marketing campaign starring Jessica Alba and Zac Efron 5 Aug 2021, Dubai, UAE Dubai’s Department of Tourism and Commerce Marketing (Dubai Tourism) has launched its latest global campaign, featuring superstars Jessica Alba and Zac Efron, as it continues to drive global travel recovery and growth. Dubai Presents - filmed by Director’s Guild award-winning director Craig Gillespie of recent Cruella movie fame - takes a unique perspective to global destination advertising, using a highly stylised movie trailer approach to create engaging content, backdropped by some of Dubai’s most iconic landmarks and unique hidden locations. Kicking off with the high adrenaline Spy Action genre, the campaign will see a series of exciting new content launching in sequence to keep audiences guessing and anticipating.",
+    "summary": "Dubai launches new global marketing campaign starring Jessica Alba and Zac Efron. Dubai Presents - filmed by Director’s Guild award-winning director Craig Gillespie.",
+    "previous_ending_context": "",
+    "main_subject": "Dubai",
+    "resolved_references": {
+      "it": "UAE"
+    },
+    "topic_shift_flag": true,
+    "entities": [
+      "Jessica Alba",
+      "Zac Efron",
+      "5 Aug 2021",
+      "Dubai",
+      "Department of Tourism and Commerce Marketing",
+      "Dubai Tourism",
+      "Dubai Presents",
+      "Director’s Guild",
+      "Craig Gillespie",
+      "Cruella",
+      "Spy Action"
+    ],
+    "metadata": {
+      "source_filename": "dubai-presents.pdf"
+    }
+  },
+  {
+    "chunk_index": 3,
+    "content": "Building on the hugely successful campaign film, ‘A Story Takes Flight’ released by Dubai Tourism in 2019 and featuring Gwyneth Paltrow, Kate Hudson and Zoe Saldana; this new campaign will see more than 2,000 assets released in 27 countries across 16 languages via cinema, print, broadcast, out of home, digital and social media channels. Dubai recently marked a year since it reopened its doors to international travellers. Data from Dubai Tourism shows that the city welcomed 4.1 million overnight visitors in a 12-month period from July 2020 to June 2021. This figure underscores the leading role that Dubai continues to play in global tourism recovery offering a safe, appealing, and memorable experience for travellers. Dubai’s approach since the start of the global pandemic has been one of preparedness, agility and consistency. It was one of the first cities globally to reopen its markets and businesses, and continues to stay open. This was achieved through a prudent and staggered approach to the reopening of sectors while ensuring strict compliance with globally benchmarked health and safety protocols. The gradual implementation of a multi-phase recovery programme saw Dubai opening for domestic tourists in May 2020 and international tourists in July 2020. The UAE also has one of the world’s highest per capita vaccination rates.",
+    "summary": "Dubai recently marked a year since it reopened its doors to international travellers. The city welcomed 4.1 million overnight visitors in a 12-month period from July 2020 to June 2021.",
+    "previous_ending_context": "Kicking off with the high adrenaline Spy Action genre, the campaign will see a series of exciting new content launching in sequence to keep audiences guessing and anticipating.",
+    "main_subject": "Dubai",
+    "resolved_references": {
+      "it": "Saldana",
+      "It": "Dubai"
+    },
+    "topic_shift_flag": true,
+    "entities": [
+      "A Story Takes Flight’",
+      "Dubai Tourism",
+      "Gwyneth Paltrow",
+      "Kate Hudson",
+      "Zoe Saldana",
+      "Dubai",
+      "July 2020",
+      "June 2021",
+      "May 2020"
+    ],
+    "metadata": {
+      "source_filename": "dubai-presents.pdf"
+    }
+  },
+  {
+    "chunk_index": 12,
+    "content": "--- --Issam Kazim, CEO, Dubai Corporation for Tourism and Commerce Marketing (Dubai Tourism) commented: “Premiering with the SpyAction trailer, this latest campaign uniquely weaves the art of cinema to showcase Dubai as a truly multifaceted city. Dubai Presents builds on the successes of our most prominent brand campaigns and marks the next evolution in our marketing strategy as we continue to innovate our platform that not only highlights the city’s iconic locations, enviable lifestyle and infrastructure, but also celebrates Dubai’s appeal as a hub for creative talent in cinema, music, art and design. “Amid a truly challenging and unprecedented time for the tourism industry, the launch of the Dubai Presents campaign is a testament to our collaboration with city stakeholders who continue to play an instrumental role in broadening the city’s infrastructure and proposition as we all strive to realise the vision of His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice President and Prime Minister of the UAE and Ruler of Dubai to make Dubai the most visited and one of the most recommended travel destinations in the world, all while keeping the health and safety of our residents and visitors our topmost priority. In this landmark year of Expo 2020 and the UAE’s Golden Jubilee, Dubai Presents invites the world to join us as we showcase the best of the city’s offerings, world-class experiences and infrastructure for global travellers and residents alike, cementing its global appeal as the best city in the world to live in, work and visit.” Drawing on the city’s status as a global creative hub and a beacon for the international, regional and local community of filmmakers, content creators, and other aspiring creatives, the campaign features storytelling and content creation in all forms. Appealing to tourists of all ages, with varied budgets including domestic travellers and the visiting friends and relatives (VFR) segment; Dubai Presents demonstrates that Dubai is the perfect destination for a holiday or staycation, offering the full spectrum of experiences for all types of travellers. Internationally acclaimed actress, author and founder of The Honest Company Jessica Alba said: “Being able to play multiple characters across the series gave me an opportunity to see the city in ways I wouldn’t have imagined. One moment I was winding my way through the spice souk in Old Dubai, and the next I was on the top floor of the iconic Burj Al Arab performing my own stunt sequence for an action scene. Dubai has so much to offer- from beautiful locations to the amazing food and an energy to match, I loved every part of it.” Award-winning actor and producer (Greatest Showman; Extremely Wicked, Shockingly Evil and Vile; Down to Earth with Zac Efron) Zac Efron commented: “I’ve been to Dubai previously but I was never able to truly appreciate the city in this way. Despite the fact that I travel often, it is rare to get to have the time and the opportunity to really explore and enjoy the city’s offerings. The desert was particularly special to me…such a peaceful and calm landscape and unlike anything I had ever seen.",
+    "summary": "Dubai Presents builds on the successes of our most prominent brand campaigns. The campaign features storytelling and content creation in all forms. Appealing to tourists of all ages, with varied budgets including domestic travellers and the visiting friends and relatives segment.",
+    "previous_ending_context": "The UAE also has one of the world’s highest per capita vaccination rates.",
+    "main_subject": "Dubai",
+    "resolved_references": {
+      "it": "Dubai",
+      "that": "Dubai",
+      "It": "Dubai"
+    },
+    "topic_shift_flag": true,
+    "entities": [
+      "--Issam Kazim",
+      "Dubai Corporation for Tourism and Commerce Marketing",
+      "Dubai Tourism",
+      "SpyAction",
+      "Dubai",
+      "Dubai Presents",
+      "Mohammed bin Rashid Al Maktoum",
+      "Expo 2020",
+      "Golden Jubilee",
+      "The Honest Company",
+      "Jessica Alba",
+      "Old Dubai",
+      "Burj Al Arab",
+      "Greatest Showman",
+      "Down to Earth",
+      "Zac Efron"
+    ],
+    "metadata": {
+      "source_filename": "dubai-presents.pdf"
+    }
+  },
+  {
+    "chunk_index": 26,
+    "content": "The people of Dubai were incredibly warm and hospitable and invited me to enjoy the culture by their side. I love the idea of discovery and exploration and Dubai did not disappoint.” Director’s Guild, award-winning director, Craig Gillespie, commented: “The most exciting thing about this project was being able to use the art of cinema to showcase just how dynamic and diverse Dubai can be. For some it is the ultimate luxe adventure, for others, it is a romantic getaway with quirks and nostalgia or an eye-opening journey to discovering culture and heritage. Zac and Jessica’s versatility as actors combined with dramatic backdrops and a crew from around the world made for movie magic and we’re so excited to share this series with the world.” In line with strict COVID-19 protocols, filming took place over a duration of five days. With a diverse cast and crew of over 180 people representing 27 nationalities – from celebrity talent and director, award-winning production and creative teams to a world-class filming crew, including talent drawn from across the UAE – Dubai Presents evokes the creative spirit of a cosmopolitan city rooted in multiculturalism.",
+    "summary": "Dubai Presents evokes the creative spirit of a cosmopolitan city rooted in multiculturalism. With a diverse cast and crew of over 180 people representing 27 nationalities – from celebrity talent and director, award-winning production and creative teams.",
+    "previous_ending_context": "The desert was particularly special to me…such a peaceful and calm landscape and unlike anything I had ever seen.",
+    "main_subject": "Dubai",
+    "resolved_references": {
+      "that": "Dubai",
+      "it": "Dubai"
+    },
+    "topic_shift_flag": true,
+    "entities": [
+      "Dubai",
+      "Director’s Guild",
+      "Craig Gillespie",
+      "Zac",
+      "Jessica",
+      "COVID-19 protocols",
+      "Dubai Presents"
+    ],
+    "metadata": {
+      "source_filename": "dubai-presents.pdf"
+    }
+  }
+]
